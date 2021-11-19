@@ -8,6 +8,5 @@ public class Main {
         System.out.println("Age :\t\t" + s1.getAge());
         System.out.println("Kode Kelas :\t" + s1.KodeKelas());
         System.out.println("KRS :\t\t" + s1.KRS());
-
     }
 }
